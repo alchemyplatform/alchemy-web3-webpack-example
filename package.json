@@ -7,8 +7,8 @@
     "@alch/alchemy-web3": "^0.1.16"
   },
   "devDependencies": {
-    "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^5.99.8",
+    "webpack-cli": "^6.0.1"
   },
   "scripts": {
     "build": "webpack --config webpack.config.js"
