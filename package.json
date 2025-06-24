@@ -4,11 +4,11 @@
   "description": "",
   "main": "webpack.config.js",
   "dependencies": {
-    "@alch/alchemy-web3": "^0.1.16"
+    "@alch/alchemy-web3": "^1.4.7"
   },
   "devDependencies": {
-    "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1"
   },
   "scripts": {
     "build": "webpack --config webpack.config.js"
